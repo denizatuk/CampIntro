@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhyMethods", "WhyMethods\WhyMethods.csproj", "{73414373-F235-46E5-BF57-083A4A546B17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhyArrays", "WhyArrays\WhyArrays.csproj", "{D4A0F097-ED43-44FC-8D66-61729B47B9D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{73414373-F235-46E5-BF57-083A4A546B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73414373-F235-46E5-BF57-083A4A546B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73414373-F235-46E5-BF57-083A4A546B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A0F097-ED43-44FC-8D66-61729B47B9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A0F097-ED43-44FC-8D66-61729B47B9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A0F097-ED43-44FC-8D66-61729B47B9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A0F097-ED43-44FC-8D66-61729B47B9D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
