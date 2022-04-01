@@ -18,9 +18,10 @@ namespace ClassMetotDemo
         internal void Listele(ref Musteri[] musteriler)
         {
             foreach (Musteri musteri in musteriler)
-            {
+        {
                 Console.WriteLine(musteri.Name);
             }
         }
+
     }
 }
