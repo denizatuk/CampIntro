@@ -32,6 +32,7 @@ namespace ClassMetotDemo
 
             Musteri[] musteriler = new Musteri[] { musteri1, musteri2, musteri3 };
             Console.WriteLine("---------------- Müşteri Listesi -----------------");
+
             musteriManager.Listele(ref musteriler);
 
 
