@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampIntro", "CampIntro\CampIntro.csproj", "{F8CCEA81-5681-4184-BA32-BE95EA0C94CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampIntro", "CampIntro\CampIntro.csproj", "{F8CCEA81-5681-4184-BA32-BE95EA0C94CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methotlar", "Methotlar\Methotlar.csproj", "{3A600A88-4107-4C20-99C1-02DFDCCC82DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methotlar", "Methotlar\Methotlar.csproj", "{3A600A88-4107-4C20-99C1-02DFDCCC82DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{956C95B4-E1F5-4E03-8516-E44B0E8C538C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{956C95B4-E1F5-4E03-8516-E44B0E8C538C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{ECEFEEC3-F90B-4FB4-9D4E-D2B6F31F8F50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{ECEFEEC3-F90B-4FB4-9D4E-D2B6F31F8F50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhyMethods", "WhyMethods\WhyMethods.csproj", "{73414373-F235-46E5-BF57-083A4A546B17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhyMethods", "WhyMethods\WhyMethods.csproj", "{73414373-F235-46E5-BF57-083A4A546B17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhyArrays", "WhyArrays\WhyArrays.csproj", "{D4A0F097-ED43-44FC-8D66-61729B47B9D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhyArrays", "WhyArrays\WhyArrays.csproj", "{D4A0F097-ED43-44FC-8D66-61729B47B9D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{67D0967E-4791-461D-995A-E1F0C7307114}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{67D0967E-4791-461D-995A-E1F0C7307114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{AD5FEAB9-596F-4DE4-80B7-E4431D5DCD4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{67D0967E-4791-461D-995A-E1F0C7307114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67D0967E-4791-461D-995A-E1F0C7307114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67D0967E-4791-461D-995A-E1F0C7307114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5FEAB9-596F-4DE4-80B7-E4431D5DCD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5FEAB9-596F-4DE4-80B7-E4431D5DCD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5FEAB9-596F-4DE4-80B7-E4431D5DCD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5FEAB9-596F-4DE4-80B7-E4431D5DCD4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
